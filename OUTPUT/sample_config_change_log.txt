@@ -1,0 +1,16 @@
+Configuration Change Alert - xxx
+The configuration changes are: 
+
+ ntp source Loopback1
+-ntp server 1.1.1.1
++ntp server 2.2.2.2
+ 
+***********
+Configuration Change Alert - xx2
+The configuration changes are: 
+
+ ntp source Loopback1
+-ntp server 1.1.1.1
++ntp server 2.2.2.2
+ 
+***********
